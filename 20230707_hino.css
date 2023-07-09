@@ -1,0 +1,42 @@
+@charset "20230707_hino.css";
+
+*{
+  box-sizing: border-box;
+}
+
+.header-header{
+  width:100% ;
+  display: flex;
+  float: left;
+  justify-content: space-between;
+  text-align: right;
+}
+
+.header-logo{
+
+}
+.header-nav{
+display: flex;
+
+}
+.header-ul{
+  display: flex;
+  float: left;
+  list-style: none;
+  color: blue;
+  text-align: right;
+
+}
+.header-menu{
+  margin-left: 40px;
+}
+さん
+a{
+  text-decoration: none；
+  font-weight: bold;
+  color: blue;
+}
+
+
+
+
