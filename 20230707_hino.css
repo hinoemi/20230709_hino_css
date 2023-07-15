@@ -41,23 +41,24 @@ li{
 
 }
 
-.box{
+。div{
   margin-left: auto;
   height: 500px;
   width: 700px;
 
 }
 
-.relative{
-  position: absolute;
-  top: 800px;
-  right: 500px;;
-  background-color: blue;
-}
-
-.absolute{
+.right-box{
   position: relative;
-  top:100px;
+  top:50px;
   left: 800px;
 
 }
+.bule-box{
+margin-right: 400px;
+background-color: blue;
+height: 200px;
+width: 1200px;
+}
+
+
