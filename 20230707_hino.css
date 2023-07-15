@@ -7,17 +7,20 @@ body{
 
 div{
   display: flex;
+  align-items: center;
   position: relative;
 }
 
 header{
   width: 100%;
+
   justify-content: space-between;
 
 }
 
 .header-ul{
   display: flex;
+
   list-style: none;
   position: relative;
 }
@@ -48,12 +51,13 @@ li{
 .relative{
   position: absolute;
   top: 800px;
-  left:800px;
+  right: 500px;;
   background-color: blue;
 }
 
 .absolute{
   position: relative;
   top:100px;
+  left: 800px;
 
 }
