@@ -1,64 +1,26 @@
 @charset "20230707_hino.css"
 
-body{
+.header{
   display: flex;
-  position: relative;
 }
+.header__nav{
+  display: flex;
 
-div{
+
+}
+.flex{
   display: flex;
   align-items: center;
-  position: relative;
-}
-
-header{
-  width: 100%;
-
+  justify-content: flex-end;
   justify-content: space-between;
+  font-weight: bold;
+  color: blue;
+  text-decoration: none;
 
 }
 
-.header-ul{
+.box{
   display: flex;
 
-  list-style: none;
-  position: relative;
-}
-
-a{
-  text-decoration: none;
-  color: blue;
-  font-weight: bold;
 
 }
-
-li{
-  margin-left: 40px;
-  
-}
-.header-nav{
-  margin-left: auto;
-
-}
-
-.div{
-  margin-left: auto;
-  height: 300px;
-  width: 500px;
-
-}
-
-.right-box{
-  position: relative;
-  top:50px;
-  left: 800px;
-
-}
-.bule-box{
-margin-right: 400px;
-background-color: blue;
-height: 200px;
-width: 1200px;
-}
-
-
