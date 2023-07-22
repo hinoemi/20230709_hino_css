@@ -1,26 +1,21 @@
 @charset "20230707_hino.css"
 
-.header{
-  display: flex;
-}
 .header__nav{
-  display: flex;
-
-
+  text-decoration: none;
 }
 .flex{
   display: flex;
-  align-items: center;
   justify-content: flex-end;
   justify-content: space-between;
   font-weight: bold;
-  color: blue;
-  text-decoration: none;
-
 }
 
+h1{
+  color: blue;
+}
 .box{
   display: flex;
+  text-decoration: none;
 
 
 }
