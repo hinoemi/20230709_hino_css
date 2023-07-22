@@ -1,10 +1,9 @@
-@charset "20230707_hino.css"
 
-.header__nav{
+
+.header-nav{
   text-decoration: none;
 }
 .flex{
-  display: flex;
   justify-content: flex-end;
   justify-content: space-between;
   font-weight: bold;
