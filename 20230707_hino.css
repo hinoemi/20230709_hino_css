@@ -4,6 +4,7 @@
   text-decoration: none;
 }
 .flex{
+  display: flex;
   justify-content: flex-end;
   justify-content: space-between;
   font-weight: bold;
