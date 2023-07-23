@@ -36,8 +36,12 @@ a{
   width: 100%;
 }
 
-.bule-box{
-  background-color: blue
-  height: 800px;
+.blue-box{
+  position: relative;
+  top: ;
+  left: 0;
+  background-color: blue;
+  margin-right: auto;
+  height: 200px;
   width: 1000px;
 }
