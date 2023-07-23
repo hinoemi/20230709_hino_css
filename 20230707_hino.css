@@ -28,10 +28,14 @@ a{
 
 .right-box{
   margin-left: auto;
-  height: 300px;
-  width: 400px;
+  height: 700px;
+  width: 800px;
 }
-.jpeg{
+.image{
   width: 100%;
-
+}
+.bule-box{
+  background-color: blue;
+  height: 200px;
+  width: 700px;
 }
