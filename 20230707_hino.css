@@ -40,9 +40,11 @@ a{
 }
 
 .text{
+  position: relative;
+  top: 350px;
+
   text-align: left;
-  line-height: 50px;
-  font-size: 50px
+  font-size: 60px
 }
 .blue-box{
   position: relative;
